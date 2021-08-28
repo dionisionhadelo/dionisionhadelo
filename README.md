@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dionisionhadelo
 - 👀 I’m interested in Data Science, Radio Astronomy and Astrophysics. 
 - 🌱 I’m currently learning PHP, MySQL, phpmyadmin, JavaScipt and wordpress.
-- 💞️ I’m looking to collaborate on Supervised and Unsupervised Machine Learning projects as well softwares development.
+- 💞️ I’m looking to collaborate on Data Science projects, Supervised and Unsupervised Machine Learning projects as well softwares development.
 - 📫 You can reach me through my email: dionisiocandido1@gmail.com or website: https://dionisionhadelo.github.io/dcnwebsite/
 
 <!---
