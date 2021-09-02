@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dionisionhadelo
+- 👋 Hi, I’m Dionisio C. Nhadelo
 - 👀 I’m interested in Data Science, Radio Astronomy and Astrophysics. 
 - 🌱 I’m currently learning PHP, MySQL, phpmyadmin, JavaScipt and wordpress.
 - 💞️ I’m looking to collaborate on Data Science projects, Supervised and Unsupervised Machine Learning projects as well softwares development.
